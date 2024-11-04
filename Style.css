@@ -1,0 +1,172 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+
+}
+body
+{
+	font-family: 'Roboto', sans-serif;
+	background:#FFF4F2;
+}
+.head
+{
+    display:flex;
+	padding :20px;
+	background-color:#F5E2E1;
+}
+nav
+{
+	flex:1;
+	text-align:right;
+}
+nav ul
+{
+	display:inline-block;
+	list-style-type:none;
+}
+nav ul li
+{
+	display:inline-block;
+	margin-right:20px;
+}
+a
+{
+	text-decoration:none;
+	color:#555;
+}
+.top
+{
+	max-width:1300px;
+	margin:auto;
+	padding-left:20px;
+	padding-right:20px;
+}
+.dec
+{
+
+	
+}
+.c
+{
+
+}
+.c img
+{
+	width:1300px;
+    height:400px;
+	
+
+}
+.bt
+{
+	display:inline-block;
+	background:#E86C0C;
+	color:#fff;
+	padding:8px 20px;
+	margin:30 0;
+}
+.table
+{
+  margin-left: auto;
+  margin-right: auto;
+  max-height:200px;
+  min-height:200px;
+}
+.cat
+{
+	background-color:#FFCABA;
+}
+.table1
+{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.btn
+{
+	
+	
+	border: none;
+    font-size:22px;
+	width:200px;
+	height:40px;
+	background:#fff;
+	color:#000;
+    padding:8px 20px;
+	margin:30 0;
+}
+
+.tab
+{
+  margin-left: auto;
+  margin-right: auto;
+  padding:20px 0px;
+}
+.tab img
+{
+  width:250px;
+  height:300px;
+}
+.cartBTN
+{
+
+  color:white;	
+  border: none;
+  background:blue;
+  margin-left: auto;
+  margin-right: auto;
+  width:240px;
+  height:30px;
+  font-size:20px;
+  
+}
+.viewBTN
+{
+
+  background:#BFBFBA;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  width:240px;
+  height:30px;
+  font-size:20px;
+}
+.tab .size
+{
+  margin-left: auto;
+  margin-right: auto;
+  width:118px;
+  height:20px;
+  font-size:15px;
+  
+}
+.tab .color
+{
+  margin-left: auto;
+  margin-right: auto;
+  width:118px;
+  height:20px;
+  font-size:15px;
+  
+}
+.tab .price
+{
+  text-align:center;	
+
+  font-size:18px;
+  
+}
+.tab .name
+{
+  font-size:20px; 
+}
+.tab .cap
+{
+  font-size:28px;
+  padding:20px 0px;  
+  font-weight:bold;
+   
+}
+ 
